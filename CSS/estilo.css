@@ -1,0 +1,23 @@
+/* selector universal * {
+   color: rgb(165, 42, 42);
+} */
+form {
+    color: rgb(51, 50, 54);
+    text-align: center;
+}
+.titulo-h1 {
+    color:rgb(255, 0, 157);
+    size: 18;
+    text-align: center;
+}
+#uno {
+    color:darkslateblue
+}
+#dos {
+    color: rgb(194, 41, 41);
+    text-align: justify;
+    font-size: larger;
+}
+#tres {
+    text-align: right;
+}
